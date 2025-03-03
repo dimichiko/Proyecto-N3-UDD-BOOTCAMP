@@ -1,0 +1,115 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+header {
+    background-color: #4b2e2e; /* Color marrón oscuro */
+    color: #fff;
+    padding: 10px 0;
+}
+header .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+header nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+header nav ul li {
+    margin-left: 20px;
+}
+header nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+.container {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+#subscribe {
+    background: #d9c3a6; /* Color beige */
+    padding: 20px;
+    text-align: center;
+}
+#subscribe h2 {
+    margin: 0;
+}
+#products, #about {
+    padding: 20px 0;
+}
+.product {
+    background: #fff;
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid #ddd;
+    display: inline-block;
+    width: 30%;
+    box-sizing: border-box;
+    text-align: center;
+}
+.product img {
+    width: 100%;
+    height: auto;
+    max-width: 626px;
+    max-height: 626px;
+    object-fit: cover;
+}
+.buy-button {
+    background-color: #4b2e2e; /* Color marrón oscuro */
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+.buy-button:hover {
+    background-color: #3a2323; /* Color marrón más oscuro */
+}
+footer {
+    background-color: #4b2e2e; /* Color marrón oscuro */
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}
+.footer-section {
+    display: inline-block;
+    width: 22%;
+    vertical-align: top;
+    padding: 10px;
+}
+.footer-section h3 {
+    margin-top: 0;
+}
+.footer-section ul {
+    list-style: none;
+    padding: 0;
+}
+.footer-section ul li {
+    margin: 5px 0;
+}
+.footer-section ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+.footer-bottom {
+    margin-top: 20px;
+}
+@media (max-width: 768px) {
+    header .container {
+        flex-direction: column;
+    }
+    .product {
+        width: 100%;
+        margin: 10px 0;
+    }
+    .footer-section {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+}
