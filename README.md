@@ -1,4 +1,4 @@
-# Proyecto-N2-UDD-BOOTCAMPProyecto-N3-UDD-BOOTCAMP
+# Proyecto-N3-UDD-BOOTCAMP
 Tienda de Café - Landing Page
 
 Este proyecto es una página de aterrizaje para una tienda de café, diseñada para atraer clientes y fomentar suscripciones.
