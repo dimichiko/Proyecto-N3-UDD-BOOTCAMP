@@ -59,6 +59,6 @@ A responsive landing page for Smart Coffee, a fictional coffee brand, built with
 - This project is licensed under the MIT License.
 
 ## Author
-Dimitris Vamvoukas
-GitHub: dimichiko
-Email: ianvamvoukas1230@.com
+- Dimitris Vamvoukas
+- GitHub: dimichiko
+- Email: ianvamvoukas1230@gmail.com
