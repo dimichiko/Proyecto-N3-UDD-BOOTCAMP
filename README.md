@@ -11,7 +11,8 @@ A responsive landing page for Smart Coffee, a fictional coffee brand, built with
 - Consistent branding with a coffee-inspired color scheme (brown and beige tones).
 
 ## Screenshots
-![Smart Coffee Landing Page](path/to/screenshot.png)
+<img width="910" alt="Screenshot 2025-03-10 at 16 28 37" src="https://github.com/user-attachments/assets/2a6fba78-555f-4d65-ac9e-9a5cfed94884" />
+
 
 ## Installation
 1. Clone the repository:
